@@ -1,4 +1,4 @@
-                                                                                                                                          **Blood Bank System**
+                                                                                                **Blood Bank System**
 **Overview**
 The Blood Bank System is a database management project designed to streamline and automate the processes involved in blood donation, storage, and distribution. This project utilizes SQL to create a robust database structure with multiple interrelated tables that handle donor registration, blood inventory, recipient data, and more. The system is built to provide efficient and accurate management of blood resources, aiding hospitals and blood banks in maintaining a reliable supply chain.
 
